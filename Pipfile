@@ -32,8 +32,8 @@ python-dotenv = "*"
 ipykernel = "*"
 
 [requires]
-python_version = "3.11"
-python_full_version = "3.11.0"
+python_version = "3.13.7"
+python_full_version = "3.13.7"
 
 [pipenv]
 allow_prereleases = true
